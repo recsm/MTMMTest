@@ -1,0 +1,602 @@
+[
+    {
+        "country": "UK", 
+        "parameter": "pr1", 
+        "value": 0.019233820116456024, 
+        "group": "group1"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr1", 
+        "value": 0.76783585266999699, 
+        "group": "group2"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr1", 
+        "value": 0.5808448219204736, 
+        "group": "group3"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr1", 
+        "value": 0.24847131825401458, 
+        "group": "group4"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr2", 
+        "value": 0.57225785325144252, 
+        "group": "group1"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr2", 
+        "value": 0.20029082013691768, 
+        "group": "group2"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr2", 
+        "value": 0.68936453474240644, 
+        "group": "group3"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr2", 
+        "value": 0.68988718484427702, 
+        "group": "group4"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr3", 
+        "value": 0.3787919208223155, 
+        "group": "group1"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr3", 
+        "value": 0.25797379042045698, 
+        "group": "group2"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr3", 
+        "value": 0.96291928402856086, 
+        "group": "group3"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr3", 
+        "value": 0.98304876531581409, 
+        "group": "group4"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr4", 
+        "value": 0.35210981416384557, 
+        "group": "group1"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr4", 
+        "value": 0.55295451977864074, 
+        "group": "group2"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr4", 
+        "value": 0.20675941334184156, 
+        "group": "group3"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr4", 
+        "value": 0.29774473526629619, 
+        "group": "group4"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr5", 
+        "value": 0.71996248228086357, 
+        "group": "group1"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr5", 
+        "value": 0.9242903664399259, 
+        "group": "group2"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr5", 
+        "value": 0.56714776828497038, 
+        "group": "group3"
+    }, 
+    {
+        "country": "UK", 
+        "parameter": "pr5", 
+        "value": 0.95559426439060424, 
+        "group": "group4"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr1", 
+        "value": 0.13486333773663284, 
+        "group": "group1"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr1", 
+        "value": 0.26864088244371009, 
+        "group": "group2"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr1", 
+        "value": 0.56817968162438304, 
+        "group": "group3"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr1", 
+        "value": 0.88760536173518756, 
+        "group": "group4"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr2", 
+        "value": 0.68920991000685405, 
+        "group": "group1"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr2", 
+        "value": 0.49124688611453726, 
+        "group": "group2"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr2", 
+        "value": 0.63104998574062587, 
+        "group": "group3"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr2", 
+        "value": 0.31259081596934835, 
+        "group": "group4"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr3", 
+        "value": 0.65098658841745605, 
+        "group": "group1"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr3", 
+        "value": 0.48928952842133933, 
+        "group": "group2"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr3", 
+        "value": 0.76730861131762285, 
+        "group": "group3"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr3", 
+        "value": 0.20464473020443219, 
+        "group": "group4"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr4", 
+        "value": 0.89979785966815795, 
+        "group": "group1"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr4", 
+        "value": 0.47747374347924765, 
+        "group": "group2"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr4", 
+        "value": 0.87055921890040444, 
+        "group": "group3"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr4", 
+        "value": 0.28931417965352879, 
+        "group": "group4"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr5", 
+        "value": 0.83774317450817026, 
+        "group": "group1"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr5", 
+        "value": 0.50167316819122598, 
+        "group": "group2"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr5", 
+        "value": 0.52222524401752513, 
+        "group": "group3"
+    }, 
+    {
+        "country": "France", 
+        "parameter": "pr5", 
+        "value": 0.43981198652757247, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr1", 
+        "value": 0.67890350585008452, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr1", 
+        "value": 0.3670550045653922, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr1", 
+        "value": 0.48986234258436723, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr1", 
+        "value": 0.9799569046601615, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr2", 
+        "value": 0.8201460225613153, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr2", 
+        "value": 0.92038969754241362, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr2", 
+        "value": 0.075835291577848407, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr2", 
+        "value": 0.88811644995774841, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr3", 
+        "value": 0.44918665820414339, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr3", 
+        "value": 0.049095003206443777, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr3", 
+        "value": 0.38767448981240238, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr3", 
+        "value": 0.70417154269196869, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr4", 
+        "value": 0.50268475035253268, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr4", 
+        "value": 0.48936094036483979, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr4", 
+        "value": 0.037402264674981534, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr4", 
+        "value": 0.20467821147285081, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr5", 
+        "value": 0.017910724138575418, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr5", 
+        "value": 0.72889914138470746, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr5", 
+        "value": 0.78151655935890096, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Yonderland", 
+        "parameter": "pr5", 
+        "value": 0.2384757779386274, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr1", 
+        "value": 0.34312287488812621, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr1", 
+        "value": 0.74681257370916954, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr1", 
+        "value": 0.72403016965090028, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr1", 
+        "value": 0.86763327245613697, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr2", 
+        "value": 0.46183944345491845, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr2", 
+        "value": 0.24208690805925293, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr2", 
+        "value": 0.584050046084439, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr2", 
+        "value": 0.5861682698411943, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr3", 
+        "value": 0.35760629935216537, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr3", 
+        "value": 0.20673170830104581, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr3", 
+        "value": 0.33871594790888893, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr3", 
+        "value": 0.61797677220306146, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr4", 
+        "value": 0.65260219848424406, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr4", 
+        "value": 0.10288264328303554, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr4", 
+        "value": 0.17776377548662292, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr4", 
+        "value": 0.67536684592942764, 
+        "group": "group4"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr5", 
+        "value": 0.99867502484159221, 
+        "group": "group1"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr5", 
+        "value": 0.9269019035634799, 
+        "group": "group2"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr5", 
+        "value": 0.11407322972585066, 
+        "group": "group3"
+    }, 
+    {
+        "country": "Cuba", 
+        "parameter": "pr5", 
+        "value": 0.99043189614917082, 
+        "group": "group4"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr1", 
+        "value": 0.33314815479467896, 
+        "group": "group1"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr1", 
+        "value": 0.95301078595393551, 
+        "group": "group2"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr1", 
+        "value": 0.42637416674677608, 
+        "group": "group3"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr1", 
+        "value": 0.62271247955225439, 
+        "group": "group4"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr2", 
+        "value": 0.76683442983053141, 
+        "group": "group1"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr2", 
+        "value": 0.25397801208158244, 
+        "group": "group2"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr2", 
+        "value": 0.38403632223425943, 
+        "group": "group3"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr2", 
+        "value": 0.81846849438410929, 
+        "group": "group4"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr3", 
+        "value": 0.2354045149135614, 
+        "group": "group1"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr3", 
+        "value": 0.20535036957325048, 
+        "group": "group2"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr3", 
+        "value": 0.023684500307525114, 
+        "group": "group3"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr3", 
+        "value": 0.5079796867443499, 
+        "group": "group4"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr4", 
+        "value": 0.83855092525126029, 
+        "group": "group1"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr4", 
+        "value": 0.78498619474339115, 
+        "group": "group2"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr4", 
+        "value": 0.46493218179989104, 
+        "group": "group3"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr4", 
+        "value": 0.83516375887793104, 
+        "group": "group4"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr5", 
+        "value": 0.82062019947458775, 
+        "group": "group1"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr5", 
+        "value": 0.79378013380348966, 
+        "group": "group2"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr5", 
+        "value": 0.47973052710678432, 
+        "group": "group3"
+    }, 
+    {
+        "country": "New Amsterdam", 
+        "parameter": "pr5", 
+        "value": 0.68500520273814625, 
+        "group": "group4"
+    }
+]
