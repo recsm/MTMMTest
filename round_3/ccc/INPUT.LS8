@@ -1,4 +1,4 @@
-Analysis of round 4 satisf group 1 GB
+The Analysis for round 4 satisf group 1 GB
 Data ng=54 ni=9 no=757 ma=cm
  Km
  *
@@ -17,6 +17,8 @@ Data ng=54 ni=9 no=757 ma=cm
  sd
  *
 2.0719947655367 2.33871152504304 2.47499721725431 2.06988313678454 2.18447239328917 2.20982628548735 1.00  1.00  1.00
+
+
 
 
 model ny=9 ne=9 nk=6  ly=fu,fi te=sy,fi ps=sy,fi be=fu,fi ga=fu,fi ph=sy,fi
