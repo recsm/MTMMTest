@@ -19,9 +19,6 @@ Data ng=54 ni=9 no=757 ma=cm
 2.0719947655367 2.33871152504304 2.47499721725431 2.06988313678454 2.18447239328917 2.20982628548735 1.00  1.00  1.00
 
 
-
-
-
 model ny=9 ne=9 nk=6  ly=fu,fi te=sy,fi ps=sy,fi be=fu,fi ga=fu,fi ph=sy,fi
 
 value 1 ly 1 1 ly 2 2 ly 3 3 ly 4 4 ly 5 5 ly 6 6
