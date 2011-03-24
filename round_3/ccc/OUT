@@ -1,6 +1,6 @@
 
                                 DATE:  3/24/2011
-                                  TIME: 12:26
+                                  TIME: 12:27
 
 
                                 L I S R E L  8.72
@@ -23,7 +23,7 @@
 
  The following lines were read from file C:\Documents and Settings\U46509\Mis documentos\MacMTMM\repository\round_3\ccc\INPUT.LS8:
 
- BING of round 4 satisf group 1 GB
+ BONG of round 4 satisf group 1 GB
  Data ng=54 ni=9 no=757 ma=cm
  Km
  *
@@ -70,7 +70,7 @@
  start .7 te 1 1 te 2 2 te 3 3 te 4 4 te 5 5 te 6 6
  out mi iter= 300 adm=off sc
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
                            Number of Input Variables  9
                            Number of Y - Variables    9
@@ -2533,7 +2533,7 @@
                            Number of Observations   595
                            Number of Groups          54
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
          Covariance Matrix       
 
@@ -3830,7 +3830,7 @@
     VAR 9      1.192      1.291      1.621
 
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
  Parameter Specifications
 
@@ -5220,7 +5220,7 @@
  
 
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
  Number of Iterations =154
 
@@ -5356,7 +5356,7 @@
                             Standardized RMR = 0.0376
                        Goodness of Fit Index (GFI) = 0.985
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
  Modification Indices and Expected Change
 
@@ -5763,7 +5763,7 @@
     VAR 8       - -        - - 
     VAR 9       - -        - -        - - 
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
  Within Group Standardized Solution           
 
@@ -5851,7 +5851,7 @@
     KSI 5       - -       1.000
     KSI 6       - -        - -       1.000
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
  Within Group Completely Standardized Solution
 
@@ -45580,7 +45580,7 @@
             --------   --------   --------
                0.490      0.409      0.434
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
  Common Metric Standardized Solution           
 
@@ -45668,7 +45668,7 @@
     KSI 5       - -       1.000
     KSI 6       - -        - -       1.000
 
- BING of round 4 satisf group 1 GB                                              
+ BONG of round 4 satisf group 1 GB                                              
 
  Common Metric Completely Standardized Solution
 
@@ -55732,4 +55732,4 @@
             --------   --------   --------
                0.618      0.506      0.506
 
-                           Time used:    7.109 Seconds
+                           Time used:    7.078 Seconds
