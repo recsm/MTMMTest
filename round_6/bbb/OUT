@@ -1,6 +1,6 @@
 
                                 DATE:  3/31/2011
-                                  TIME: 17:16
+                                  TIME: 17:18
 
 
                                 L I S R E L  8.72
@@ -89,7 +89,7 @@
  0.433611951789962 0.549166533160772 1
  0 0 .5 1
  0 0 0 0 1
- 0 0 0 0 0 1
+ 0 0 0 0 .2 1
  -0.579769221389876 -0.444227038556585 -0.257380008420218 0 0 0 1
  -0.485489303197461 -0.676938070411691 -0.40606365078664 0 0 0 0.575893013184275 1
  -0.298279311105511 -0.381001916913961 -0.623104387705538 0 0 0 0.232336823717972 0.391022394761072 1
@@ -2568,7 +2568,7 @@
     VAR 3      2.236      3.013      5.754
     VAR 4       - -        - -       1.199      1.000
     VAR 5       - -        - -        - -        - -       1.000
-    VAR 6       - -        - -        - -        - -        - -       1.000
+    VAR 6       - -        - -        - -        - -       0.200      1.000
     VAR 7     -1.044     -0.851     -0.517       - -        - -        - - 
     VAR 8     -0.924     -1.370     -0.862       - -        - -        - - 
     VAR 9     -0.578     -0.785     -1.347       - -        - -        - - 
@@ -5350,7 +5350,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 48.062
-                  Percentage Contribution to Chi-Square = 0.664
+                  Percentage Contribution to Chi-Square = 0.661
  
                      Root Mean Square Residual (RMR) = 0.193
                             Standardized RMR = 0.0376
@@ -6108,12 +6108,12 @@
 
                          Group Goodness of Fit Statistics
 
-                       Contribution to Chi-Square = 661.883
-                  Percentage Contribution to Chi-Square = 9.146
+                       Contribution to Chi-Square = 692.703
+                  Percentage Contribution to Chi-Square = 9.531
  
-                     Root Mean Square Residual (RMR) = 0.198
-                             Standardized RMR = 0.103
-                       Goodness of Fit Index (GFI) = 0.874
+                     Root Mean Square Residual (RMR) = 0.201
+                             Standardized RMR = 0.107
+                       Goodness of Fit Index (GFI) = 0.867
 
  Analysis of group 2 GB (gp2)                                                   
 
@@ -6465,7 +6465,7 @@
     VAR 3      0.140      0.891      0.531
     VAR 4      8.482     42.507    366.198       - - 
     VAR 5       - -        - -        - -        - -        - - 
-    VAR 6       - -        - -        - -        - -        - -        - - 
+    VAR 6       - -        - -        - -        - -      30.200       - - 
     VAR 7      6.520     11.681      2.702      6.896       - -        - - 
     VAR 8      7.430      8.332      0.206      1.598       - -        - - 
     VAR 9      7.595      2.407      4.179     81.595       - -        - - 
@@ -6487,7 +6487,7 @@
     VAR 3     -0.038     -0.089     -0.076
     VAR 4     -0.163     -0.337      1.199       - - 
     VAR 5       - -        - -        - -        - -        - - 
-    VAR 6       - -        - -        - -        - -        - -        - - 
+    VAR 6       - -        - -        - -        - -       0.200       - - 
     VAR 7     -0.113      0.123     -0.069     -0.060       - -        - - 
     VAR 8      0.096     -0.114     -0.018     -0.027       - -        - - 
     VAR 9     -0.116     -0.062     -0.121      0.239       - -        - - 
@@ -6509,7 +6509,7 @@
     VAR 3     -0.008     -0.017     -0.014
     VAR 4     -0.076     -0.148      0.508       - - 
     VAR 5       - -        - -        - -        - -        - - 
-    VAR 6       - -        - -        - -        - -        - -        - - 
+    VAR 6       - -        - -        - -        - -       0.200       - - 
     VAR 7     -0.058      0.059     -0.032     -0.066       - -        - - 
     VAR 8      0.048     -0.053     -0.008     -0.028       - -        - - 
     VAR 9     -0.055     -0.027     -0.052      0.241       - -        - - 
@@ -6841,7 +6841,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 58.242
-                  Percentage Contribution to Chi-Square = 0.805
+                  Percentage Contribution to Chi-Square = 0.801
  
                      Root Mean Square Residual (RMR) = 0.367
                             Standardized RMR = 0.0741
@@ -7600,7 +7600,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 93.254
-                  Percentage Contribution to Chi-Square = 1.289
+                  Percentage Contribution to Chi-Square = 1.283
  
                      Root Mean Square Residual (RMR) = 0.429
                              Standardized RMR = 0.134
@@ -8332,7 +8332,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 262.846
-                  Percentage Contribution to Chi-Square = 3.632
+                  Percentage Contribution to Chi-Square = 3.616
  
                      Root Mean Square Residual (RMR) = 0.190
                             Standardized RMR = 0.0482
@@ -9091,7 +9091,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 231.932
-                  Percentage Contribution to Chi-Square = 3.205
+                  Percentage Contribution to Chi-Square = 3.191
  
                      Root Mean Square Residual (RMR) = 0.127
                             Standardized RMR = 0.0660
@@ -9823,7 +9823,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 130.606
-                  Percentage Contribution to Chi-Square = 1.805
+                  Percentage Contribution to Chi-Square = 1.797
  
                      Root Mean Square Residual (RMR) = 0.823
                              Standardized RMR = 0.179
@@ -10582,7 +10582,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 247.074
-                  Percentage Contribution to Chi-Square = 3.414
+                  Percentage Contribution to Chi-Square = 3.399
  
                      Root Mean Square Residual (RMR) = 0.447
                              Standardized RMR = 0.176
@@ -11314,7 +11314,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 37.804
-                  Percentage Contribution to Chi-Square = 0.522
+                  Percentage Contribution to Chi-Square = 0.520
  
                      Root Mean Square Residual (RMR) = 0.243
                             Standardized RMR = 0.0587
@@ -12073,7 +12073,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 110.718
-                  Percentage Contribution to Chi-Square = 1.530
+                  Percentage Contribution to Chi-Square = 1.523
  
                      Root Mean Square Residual (RMR) = 0.233
                             Standardized RMR = 0.0865
@@ -12805,7 +12805,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 55.110
-                  Percentage Contribution to Chi-Square = 0.761
+                  Percentage Contribution to Chi-Square = 0.758
  
                      Root Mean Square Residual (RMR) = 0.357
                             Standardized RMR = 0.0772
@@ -13564,7 +13564,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 29.810
-                  Percentage Contribution to Chi-Square = 0.412
+                  Percentage Contribution to Chi-Square = 0.410
  
                      Root Mean Square Residual (RMR) = 0.0829
                             Standardized RMR = 0.0267
@@ -14296,7 +14296,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 62.916
-                  Percentage Contribution to Chi-Square = 0.869
+                  Percentage Contribution to Chi-Square = 0.866
  
                      Root Mean Square Residual (RMR) = 0.213
                             Standardized RMR = 0.0436
@@ -15055,7 +15055,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 108.159
-                  Percentage Contribution to Chi-Square = 1.494
+                  Percentage Contribution to Chi-Square = 1.488
  
                      Root Mean Square Residual (RMR) = 0.161
                             Standardized RMR = 0.0666
@@ -15787,7 +15787,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 64.216
-                  Percentage Contribution to Chi-Square = 0.887
+                  Percentage Contribution to Chi-Square = 0.884
  
                      Root Mean Square Residual (RMR) = 0.417
                             Standardized RMR = 0.0847
@@ -16546,7 +16546,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 150.202
-                  Percentage Contribution to Chi-Square = 2.075
+                  Percentage Contribution to Chi-Square = 2.067
  
                      Root Mean Square Residual (RMR) = 0.263
                              Standardized RMR = 0.103
@@ -17278,7 +17278,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 76.457
-                  Percentage Contribution to Chi-Square = 1.056
+                  Percentage Contribution to Chi-Square = 1.052
  
                      Root Mean Square Residual (RMR) = 0.199
                             Standardized RMR = 0.0430
@@ -18037,7 +18037,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 61.999
-                  Percentage Contribution to Chi-Square = 0.857
+                  Percentage Contribution to Chi-Square = 0.853
  
                      Root Mean Square Residual (RMR) = 0.0995
                             Standardized RMR = 0.0486
@@ -18769,7 +18769,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 71.612
-                  Percentage Contribution to Chi-Square = 0.989
+                  Percentage Contribution to Chi-Square = 0.985
  
                      Root Mean Square Residual (RMR) = 0.150
                             Standardized RMR = 0.0330
@@ -19528,7 +19528,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 232.720
-                  Percentage Contribution to Chi-Square = 3.216
+                  Percentage Contribution to Chi-Square = 3.202
  
                      Root Mean Square Residual (RMR) = 0.107
                             Standardized RMR = 0.0437
@@ -20260,7 +20260,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 25.164
-                  Percentage Contribution to Chi-Square = 0.348
+                  Percentage Contribution to Chi-Square = 0.346
  
                      Root Mean Square Residual (RMR) = 0.484
                              Standardized RMR = 0.108
@@ -21019,7 +21019,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 50.680
-                  Percentage Contribution to Chi-Square = 0.700
+                  Percentage Contribution to Chi-Square = 0.697
  
                      Root Mean Square Residual (RMR) = 0.489
                              Standardized RMR = 0.166
@@ -21751,7 +21751,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 56.164
-                  Percentage Contribution to Chi-Square = 0.776
+                  Percentage Contribution to Chi-Square = 0.773
  
                      Root Mean Square Residual (RMR) = 0.217
                             Standardized RMR = 0.0474
@@ -22510,7 +22510,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 69.279
-                  Percentage Contribution to Chi-Square = 0.957
+                  Percentage Contribution to Chi-Square = 0.953
  
                      Root Mean Square Residual (RMR) = 0.185
                             Standardized RMR = 0.0724
@@ -23242,7 +23242,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 60.965
-                  Percentage Contribution to Chi-Square = 0.842
+                  Percentage Contribution to Chi-Square = 0.839
  
                      Root Mean Square Residual (RMR) = 0.223
                             Standardized RMR = 0.0460
@@ -24001,7 +24001,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 307.404
-                  Percentage Contribution to Chi-Square = 4.248
+                  Percentage Contribution to Chi-Square = 4.230
  
                      Root Mean Square Residual (RMR) = 0.153
                             Standardized RMR = 0.0883
@@ -24733,7 +24733,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 47.099
-                  Percentage Contribution to Chi-Square = 0.651
+                  Percentage Contribution to Chi-Square = 0.648
  
                      Root Mean Square Residual (RMR) = 0.181
                             Standardized RMR = 0.0374
@@ -25492,7 +25492,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 67.556
-                  Percentage Contribution to Chi-Square = 0.933
+                  Percentage Contribution to Chi-Square = 0.929
  
                      Root Mean Square Residual (RMR) = 0.142
                             Standardized RMR = 0.0648
@@ -26224,7 +26224,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 35.171
-                  Percentage Contribution to Chi-Square = 0.486
+                  Percentage Contribution to Chi-Square = 0.484
  
                      Root Mean Square Residual (RMR) = 0.269
                             Standardized RMR = 0.0525
@@ -26983,7 +26983,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 53.645
-                  Percentage Contribution to Chi-Square = 0.741
+                  Percentage Contribution to Chi-Square = 0.738
  
                      Root Mean Square Residual (RMR) = 0.230
                             Standardized RMR = 0.0615
@@ -27715,7 +27715,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 117.299
-                  Percentage Contribution to Chi-Square = 1.621
+                  Percentage Contribution to Chi-Square = 1.614
  
                      Root Mean Square Residual (RMR) = 0.430
                             Standardized RMR = 0.0963
@@ -28474,7 +28474,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 71.604
-                  Percentage Contribution to Chi-Square = 0.989
+                  Percentage Contribution to Chi-Square = 0.985
  
                      Root Mean Square Residual (RMR) = 0.240
                             Standardized RMR = 0.0997
@@ -29206,7 +29206,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 84.231
-                  Percentage Contribution to Chi-Square = 1.164
+                  Percentage Contribution to Chi-Square = 1.159
  
                      Root Mean Square Residual (RMR) = 0.757
                              Standardized RMR = 0.167
@@ -29965,7 +29965,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 128.263
-                  Percentage Contribution to Chi-Square = 1.772
+                  Percentage Contribution to Chi-Square = 1.765
  
                      Root Mean Square Residual (RMR) = 0.562
                              Standardized RMR = 0.180
@@ -30697,7 +30697,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 81.598
-                  Percentage Contribution to Chi-Square = 1.127
+                  Percentage Contribution to Chi-Square = 1.123
  
                      Root Mean Square Residual (RMR) = 0.801
                              Standardized RMR = 0.163
@@ -31456,7 +31456,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 104.042
-                  Percentage Contribution to Chi-Square = 1.438
+                  Percentage Contribution to Chi-Square = 1.431
  
                      Root Mean Square Residual (RMR) = 0.454
                              Standardized RMR = 0.155
@@ -32188,7 +32188,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 15.845
-                  Percentage Contribution to Chi-Square = 0.219
+                  Percentage Contribution to Chi-Square = 0.218
  
                      Root Mean Square Residual (RMR) = 0.180
                             Standardized RMR = 0.0372
@@ -32947,7 +32947,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 42.684
-                  Percentage Contribution to Chi-Square = 0.590
+                  Percentage Contribution to Chi-Square = 0.587
  
                      Root Mean Square Residual (RMR) = 0.192
                             Standardized RMR = 0.0888
@@ -33679,7 +33679,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 77.652
-                  Percentage Contribution to Chi-Square = 1.073
+                  Percentage Contribution to Chi-Square = 1.068
  
                      Root Mean Square Residual (RMR) = 0.212
                             Standardized RMR = 0.0479
@@ -34438,7 +34438,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 47.127
-                  Percentage Contribution to Chi-Square = 0.651
+                  Percentage Contribution to Chi-Square = 0.648
  
                      Root Mean Square Residual (RMR) = 0.138
                             Standardized RMR = 0.0422
@@ -35170,7 +35170,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 313.700
-                  Percentage Contribution to Chi-Square = 4.335
+                  Percentage Contribution to Chi-Square = 4.316
  
                      Root Mean Square Residual (RMR) = 0.667
                              Standardized RMR = 0.132
@@ -35929,7 +35929,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 323.922
-                  Percentage Contribution to Chi-Square = 4.476
+                  Percentage Contribution to Chi-Square = 4.457
  
                      Root Mean Square Residual (RMR) = 0.367
                             Standardized RMR = 0.0903
@@ -36661,7 +36661,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 72.606
-                  Percentage Contribution to Chi-Square = 1.003
+                  Percentage Contribution to Chi-Square = 0.999
  
                      Root Mean Square Residual (RMR) = 0.473
                             Standardized RMR = 0.1000
@@ -37420,7 +37420,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 97.943
-                  Percentage Contribution to Chi-Square = 1.353
+                  Percentage Contribution to Chi-Square = 1.348
  
                      Root Mean Square Residual (RMR) = 0.344
                             Standardized RMR = 0.0746
@@ -38152,7 +38152,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 23.090
-                  Percentage Contribution to Chi-Square = 0.319
+                  Percentage Contribution to Chi-Square = 0.318
  
                      Root Mean Square Residual (RMR) = 0.304
                             Standardized RMR = 0.0645
@@ -38911,7 +38911,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 46.826
-                  Percentage Contribution to Chi-Square = 0.647
+                  Percentage Contribution to Chi-Square = 0.644
  
                      Root Mean Square Residual (RMR) = 0.221
                             Standardized RMR = 0.0962
@@ -39643,7 +39643,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 62.139
-                  Percentage Contribution to Chi-Square = 0.859
+                  Percentage Contribution to Chi-Square = 0.855
  
                      Root Mean Square Residual (RMR) = 0.659
                              Standardized RMR = 0.142
@@ -40402,7 +40402,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 48.045
-                  Percentage Contribution to Chi-Square = 0.664
+                  Percentage Contribution to Chi-Square = 0.661
  
                      Root Mean Square Residual (RMR) = 0.234
                             Standardized RMR = 0.0712
@@ -41134,7 +41134,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 28.629
-                  Percentage Contribution to Chi-Square = 0.396
+                  Percentage Contribution to Chi-Square = 0.394
  
                      Root Mean Square Residual (RMR) = 0.282
                             Standardized RMR = 0.0618
@@ -41893,7 +41893,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 30.016
-                  Percentage Contribution to Chi-Square = 0.415
+                  Percentage Contribution to Chi-Square = 0.413
  
                      Root Mean Square Residual (RMR) = 0.0646
                             Standardized RMR = 0.0282
@@ -42625,7 +42625,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 374.557
-                  Percentage Contribution to Chi-Square = 5.175
+                  Percentage Contribution to Chi-Square = 5.153
  
                      Root Mean Square Residual (RMR) = 1.378
                              Standardized RMR = 0.249
@@ -43384,7 +43384,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 551.798
-                  Percentage Contribution to Chi-Square = 7.624
+                  Percentage Contribution to Chi-Square = 7.592
  
                      Root Mean Square Residual (RMR) = 0.907
                              Standardized RMR = 0.239
@@ -44116,7 +44116,7 @@
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 116.952
-                  Percentage Contribution to Chi-Square = 1.616
+                  Percentage Contribution to Chi-Square = 1.609
  
                      Root Mean Square Residual (RMR) = 0.811
                              Standardized RMR = 0.187
@@ -44938,46 +44938,46 @@
                         Global Goodness of Fit Statistics
 
                             Degrees of Freedom = 2094
-               Minimum Fit Function Chi-Square = 7237.246 (P = 0.0)
-       Normal Theory Weighted Least Squares Chi-Square = 7812.098 (P = 0.0)
-               Estimated Non-centrality Parameter (NCP) = 5718.098
-          90 Percent Confidence Interval for NCP = (5451.050 ; 5992.463)
+               Minimum Fit Function Chi-Square = 7268.067 (P = 0.0)
+       Normal Theory Weighted Least Squares Chi-Square = 7842.298 (P = 0.0)
+               Estimated Non-centrality Parameter (NCP) = 5748.298
+          90 Percent Confidence Interval for NCP = (5480.659 ; 6023.266)
  
-                        Minimum Fit Function Value = 0.219
-                Population Discrepancy Function Value (F0) = 0.173
-             90 Percent Confidence Interval for F0 = (0.165 ; 0.182)
-             Root Mean Square Error of Approximation (RMSEA) = 0.0669
-           90 Percent Confidence Interval for RMSEA = (0.0653 ; 0.0684)
+                        Minimum Fit Function Value = 0.220
+                Population Discrepancy Function Value (F0) = 0.174
+             90 Percent Confidence Interval for F0 = (0.166 ; 0.183)
+             Root Mean Square Error of Approximation (RMSEA) = 0.0670
+           90 Percent Confidence Interval for RMSEA = (0.0654 ; 0.0686)
                P-Value for Test of Close Fit (RMSEA < 0.05) = 0.000
  
-                  Expected Cross-Validation Index (ECVI) = 0.257
-            90 Percent Confidence Interval for ECVI = (0.249 ; 0.265)
+                  Expected Cross-Validation Index (ECVI) = 0.258
+            90 Percent Confidence Interval for ECVI = (0.250 ; 0.266)
                         ECVI for Saturated Model = 0.00273
-                       ECVI for Independence Model = 4.402
+                       ECVI for Independence Model = 4.403
  
-   Chi-Square for Independence Model with 1944 Degrees of Freedom = 145235.839
-                          Independence AIC = 146207.839
-                               Model AIC = 8484.098
+   Chi-Square for Independence Model with 1944 Degrees of Freedom = 145266.039
+                          Independence AIC = 146238.039
+                               Model AIC = 8514.298
                              Saturated AIC = 4860.000
-                          Independence CAIC = 150779.032
-                              Model CAIC = 11644.429
+                          Independence CAIC = 150809.232
+                              Model CAIC = 11674.629
                             Saturated CAIC = 27715.964
  
                           Normed Fit Index (NFI) = 0.950
-                       Non-Normed Fit Index (NNFI) = 0.967
+                       Non-Normed Fit Index (NNFI) = 0.966
                     Parsimony Normed Fit Index (PNFI) = 1.023
                        Comparative Fit Index (CFI) = 0.964
                        Incremental Fit Index (IFI) = 0.964
                          Relative Fit Index (RFI) = 0.954
  
-                           Critical N (CN) = 10247.409
+                           Critical N (CN) = 10203.959
  
 
 
                          Group Goodness of Fit Statistics
 
                        Contribution to Chi-Square = 807.928
-                  Percentage Contribution to Chi-Square = 11.163
+                  Percentage Contribution to Chi-Square = 11.116
  
                      Root Mean Square Residual (RMR) = 0.427
                              Standardized RMR = 0.229
@@ -55732,4 +55732,4 @@
             --------   --------   --------
                0.618      0.506      0.506
 
-                           Time used:    7.078 Seconds
+                           Time used:    7.063 Seconds
